@@ -8,7 +8,8 @@
 
 - [GitHub](https://github.com/dronebird/oam_sagamihara20201013takatabashi01mavicair)
 
-- XYZタイル画像データURL
-https://tiles.openaerialmap.org/5f8574307d446d0005fa8175/0/5f8574307d446d0005fa8176/{z}/{x}/{y}
+- XYZタイル画像データURL: https://tiles.openaerialmap.org/5f8574307d446d0005fa8175/0/5f8574307d446d0005fa8176/{z}/{x}/{y}
 
-© CrisisMappers Japan/DRONEBIRD, CC BY 4.0
+## License:
+© DRONEBIRD/CrisisMappers Japan, CC BY 4.0
+https://creativecommons.org/licenses/by/4.0/deed.ja
