@@ -1,6 +1,8 @@
 # oam_sagamihara20201013takatabashi01mavicair
 2020年10月13日 相模原市高田橋訓練 空撮データ
 
+<img width="1440" alt="map2d" src="https://user-images.githubusercontent.com/30142240/95947105-e053c880-0e28-11eb-9bd0-0eae5b4c54bd.png">
+
 ## 各種URL
 - [OpenAerialMap](https://map.openaerialmap.org/#/139.34680938720703,35.60036895434144,11/square/133002112221?_k=oy6nlc)
 
